@@ -5,6 +5,7 @@ Objective of the Project
 The main goal of this project is to create an IoT-Based Driver Fatigue Detection System. This system will monitor the driver's physical state, looking for signs of fatigue, and alert them when they’re getting too drowsy. Our aim is to reduce the risk of road accidents caused by driver fatigue, using simple, affordable components that can work in real-time to help keep drivers safe.
 
 Abstract
+
 Driver fatigue is a major cause of accidents on the road, and it can be hard to spot before it’s too late. This project creates a simple IoT-based system that detects when a driver is getting drowsy. The system uses basic sensors to monitor things like head movements and body posture, then triggers a vibration motor or buzzer to alert the driver. It’s cost-effective, easy to build, and can help prevent accidents caused by driver fatigue.
 
 Advantages:
