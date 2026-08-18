@@ -309,32 +309,6 @@ The current prototype can be extended with additional intelligent features:
 
 ---
 
-## 📁 Suggested Project Structure
-
-```text
-IoT_Driver_Fatigue_Detection_System/
-│
-├── README.md
-├── src/
-│   └── driver_fatigue_detection.ino
-│
-├── circuit/
-│   └── circuit_diagram.png
-│
-├── images/
-│   ├── block_diagram.png
-│   ├── prototype.jpg
-│   ├── sensor_testing.jpg
-│   └── system_demo.jpg
-│
-├── documentation/
-│   └── project_report.pdf
-│
-└── LICENSE
-```
-
----
-
 ## 🧪 Testing
 
 The prototype was evaluated by simulating different driver head positions and movements.
